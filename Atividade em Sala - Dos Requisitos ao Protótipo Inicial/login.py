@@ -1,3 +1,5 @@
+#Implementa o sistema de login e validação se login já foi feito anteriormente
+
 import json
 import os
 from datetime import datetime

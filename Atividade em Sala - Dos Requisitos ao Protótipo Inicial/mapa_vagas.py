@@ -1,3 +1,4 @@
+#Implementa mapa de vagas
 class Estacionamento:
     def __init__(self):
         self.vagas = {
