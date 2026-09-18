@@ -1,3 +1,3 @@
-import login as p
+from login import garantir_login
 
-p.garantir_login()
+usuario = garantir_login()
